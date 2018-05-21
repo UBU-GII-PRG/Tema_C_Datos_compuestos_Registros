@@ -53,7 +53,8 @@ int main () {
 }
 
 int funcion_A() {
-	struct mi_struct segunda;
+	//Código comentado
+	//struct mi_struct segunda;
 	return 0;
 }
 
